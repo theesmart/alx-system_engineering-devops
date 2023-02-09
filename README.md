@@ -1,1 +1,1 @@
-this repository contains solutions to shell tasks
+i must be a SE
