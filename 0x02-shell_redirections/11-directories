@@ -1,2 +1,2 @@
-#!bin/bash
-Find . -type d -not -name 'full stop' /wc -l
+#!/bin/bash
+find . -type d -path './*' -print | wc -l
