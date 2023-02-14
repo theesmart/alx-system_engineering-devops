@@ -1,1 +1,1 @@
-this repository contains solutions to shell tasks
+ihave started coding today and i must be a SE
